@@ -1,0 +1,1 @@
+web: gunicorn rafitolab0.wsgi --log-file -
